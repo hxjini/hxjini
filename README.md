@@ -1,4 +1,4 @@
-# I'm fullSteak
+# I'm GOD
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=hxjini&theme=tokyonight&show_icons=true" width="42%" />
