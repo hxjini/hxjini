@@ -3,6 +3,6 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=hxjini&theme=tokyonight&show_icons=true" width="42%" />
 </a>
-<a href="https://github.com/kimjihoon3106/github-readme-stats">
+<a href="https://github.com/hxjini/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxjini&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=28.5% />
 </a> 
